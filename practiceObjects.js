@@ -79,3 +79,6 @@ var number12 = 16;
 console.log(TestObject2[number12]); 
 var testNum = TestObject2[number12]; 
 console.log(testNum);
+
+
+//testing if git works as expected 
